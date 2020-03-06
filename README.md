@@ -3,7 +3,7 @@ SAMSUNG-A5-FRP-BYPASS
 Level: Low (Your grandmohter can do this if this guide is followed step by step)
 
 
-1. Enter reccovery mode before you do anything else to wipe the device entire
+1. Enter recovery mode before you do anything else to wipe the device entire
 2. Press volume up + power button
 3. When you are in recovery mode press on wipe cache followed by wipe device once done
 4. Choose reboot device after you wiped device, in meanwhile device is starting remove simcard from device and let hte "locket" bet off
@@ -23,6 +23,5 @@ https://nr1.nu/a5/frpbypass
 https://nr1.nu/a5/q.apk
 16. Open q.apk by install it last now you will have google accoutn manager in the list, scroll down until ou see google accoutn manager
 17. Press on email and password, now you see enter password but instead press on the 3 dots in upper right corner and sign in via web
-18. Once done ou are back at wifi settings# SAMSUNG GALAXY S7 - FRP BYPASS
-
+18. Once done ou are back at wifi settings and the device is yours! ;)
 # 
