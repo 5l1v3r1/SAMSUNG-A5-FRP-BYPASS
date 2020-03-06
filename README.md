@@ -1,6 +1,6 @@
-SAMSUNG-A5-FRP-BYPASS
+# SAMSUNG-A5-FRP-BYPASS
 
-Level: Low (Your grandmohter can do this if this guide is followed step by step)
+#### Level: Low (Your grandmohter can do this if this guide is followed step by step)
 
 
 1. Enter recovery mode before you do anything else to wipe the device entire
@@ -27,3 +27,14 @@ Level: Low (Your grandmohter can do this if this guide is followed step by step)
 17. Press on email and password, now you see enter password but instead press on the 3 dots in upper right corner and sign in via web
 18. Once done ou are back at wifi settings and the device is yours! ;)
  
+#### CONTACT 
+
+If you have problems, questions, ideas or suggestions please contact me by posting to wuseman@nr1.nu
+
+#### WEB SITE
+
+Visit my websites and profiles for the latest info and updated tools
+
+https://github.com/wuseman/ && https://nr1.nu && https://stackoverflow.com/users/9887151/wuseman
+
+#### END!
