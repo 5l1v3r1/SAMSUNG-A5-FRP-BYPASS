@@ -18,10 +18,12 @@ Level: Low (Your grandmohter can do this if this guide is followed step by step)
 13. NOw press Google PRivacy Policy
 14. Samsung browser has now been started ;-)
 15. Go download: 
-https://nr1.nu/a5/googleaccoutnamnager.apk
-https://nr1.nu/a5/frpbypass
-https://nr1.nu/a5/q.apk
+
+* https://nr1.nu/a5/gmanager8.apk
+* https://nr1.nu/a5/frp.apk
+* https://nr1.nu/a5/q.apk (quickshortmaker)
+
 16. Open q.apk by install it last now you will have google accoutn manager in the list, scroll down until ou see google accoutn manager
 17. Press on email and password, now you see enter password but instead press on the 3 dots in upper right corner and sign in via web
 18. Once done ou are back at wifi settings and the device is yours! ;)
-# 
+ 
